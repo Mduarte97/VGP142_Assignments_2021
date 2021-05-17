@@ -266,8 +266,8 @@ public class Character : MonoBehaviour
 
         else if (other.gameObject.CompareTag("SandPit"))
         {
-            speed = 3f;
-            jumpSpeed = 3f;
+            speed = 2f;
+            jumpSpeed = 2f;
         }
     }
 
